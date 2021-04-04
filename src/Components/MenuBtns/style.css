@@ -1,0 +1,35 @@
+.menu {
+  width: 250px;
+  margin-right: 40px;
+}
+
+.menu__title {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.menu-btns {
+}
+
+.menu-btns__btn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  height: 40px;
+  color: #fb8d8d;
+  font-size: 20px;
+  font-weight: 500;
+  padding-left: 30px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.menu-btns__btn:hover {
+  background: #fb8d8d;
+  color: #ffff;
+}

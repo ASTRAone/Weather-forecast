@@ -1,0 +1,22 @@
+.weather {
+  width: fit-content;
+}
+
+.weather__title {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.weather-content {
+}
+
+.weather-content__item {
+  margin-bottom: 10px;
+  color: #757574;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.weather-content__item:last-child {
+  margin-bottom: 0;
+}

@@ -1,0 +1,14 @@
+.App-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 60px;
+  border-bottom: 1px solid gainsboro;
+}
+
+.container {
+  padding-left: 200px;
+}
+
+.App-content {
+  display: flex;
+}
